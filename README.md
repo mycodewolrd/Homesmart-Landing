@@ -1,4 +1,4 @@
-# Homesmart Landing
+# Homesmart Landing🏠🚀
 
 A responsive landing page built with Vite, React, and Tailwind CSS.
 
